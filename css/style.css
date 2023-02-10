@@ -44,6 +44,7 @@ body {
 
 .card img {
   width: 50%;
+  margin: 0 auto;
 }
 
 .card h2 {

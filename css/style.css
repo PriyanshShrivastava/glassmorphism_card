@@ -15,7 +15,7 @@ body {
   position: relative;
   width: 100%;
   min-height: 100vh;
-  background-image: url("./images/back.png");
+  background-image: url("../images/back.png");
   background-position: center;
   background-size: cover;
   filter: brightness(80%);
